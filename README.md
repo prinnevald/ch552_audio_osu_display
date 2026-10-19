@@ -86,7 +86,7 @@ For flashing, install [`ch55xtool`](https://pypi.org/project/ch55xtool/) separat
 git clone https://github.com/tadakado/ch552-dongle.git
 
 # This overlay (replace with the actual URL of your GitHub project)
-git clone https://github.com/YOUR_USERNAME/YOUR_OVERLAY_REPO.git CH552-USB-Keypad-Audio
+git clone https://github.com/prinnevald/ch552_audio_osu_display.git CH552-USB-Keypad-Audio
 ```
 
 If you downloaded this overlay as a ZIP instead of cloning it, simply extract it as `CH552-USB-Keypad-Audio/` alongside `ch552-dongle/`.
